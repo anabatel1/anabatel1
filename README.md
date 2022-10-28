@@ -1,4 +1,4 @@
-#### A little bit about me :woman:
+#### A little bit about me:
 - ✨ &nbsp; frontend developer with over 3 years of experience
 - :dizzy: &nbsp; my motivation stems from working on interesting products
 - :grey_question: &nbsp; I like asking questions
