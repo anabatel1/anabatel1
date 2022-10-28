@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+#### A little bit about me :woman:
+- ✨ &nbsp; frontend developer with over 3 years of experience
+- :dizzy: &nbsp; my motivation stems from working on interesting products
+- :grey_question: &nbsp; I like asking questions
+- 🌱 &nbsp; I’m currently learning React and React Native
+
+
+
+#### Things that make me happy:
+- :raised_hands: &nbsp; getting good answers to my questions
+- :white_check_mark: &nbsp; moving tasks to "Done" in JIRA
+- :muscle: &nbsp; helping my teammates
+- :chart_with_upwards_trend: &nbsp; using modern technologies
+- :coffee: &nbsp; coffee, :books: &nbsp; books, :doughnut: &nbsp; sweets
+
+
+
 <!--
 **anabatel1/anabatel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
