@@ -1,5 +1,3 @@
-### Hi there 👋
-
 #### A little bit about me :woman:
 - ✨ &nbsp; frontend developer with over 3 years of experience
 - :dizzy: &nbsp; my motivation stems from working on interesting products
