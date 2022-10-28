@@ -13,7 +13,7 @@
 - :white_check_mark: &nbsp; moving tasks to "Done" in JIRA
 - :muscle: &nbsp; helping my teammates
 - :chart_with_upwards_trend: &nbsp; using modern technologies
-- :coffee: &nbsp; coffee, :books: &nbsp; books, :doughnut: &nbsp; sweets
+- :coffee: &nbsp; coffee &nbsp; / &nbsp; :books: &nbsp; books &nbsp; / &nbsp; :doughnut: &nbsp; sweets
 
 
 
