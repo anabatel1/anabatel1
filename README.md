@@ -1,8 +1,8 @@
 #### A little bit about me:
-- ✨ &nbsp; frontend developer with over 3 years of experience
+- ✨ &nbsp; frontend developer with over 4 years of experience
 - :dizzy: &nbsp; my motivation stems from working on interesting products
 - :grey_question: &nbsp; I like asking questions
-- 🌱 &nbsp; I’m currently improving my React knowledge
+- 🌱 &nbsp; I’m currently improving my React and Next.js knowledge
 - :warning: &nbsp; I have professional experience with Vue.js 2, but am also open to working with React!
 
 
