@@ -1,5 +1,5 @@
 #### A little bit about me:
-- ✨ &nbsp; frontend developer with over 4 years of experience
+- ✨ &nbsp; frontend developer with 5 years of experience
 - :dizzy: &nbsp; my motivation stems from working on interesting products
 - :grey_question: &nbsp; I like asking questions
 - 🌱 &nbsp; I’m currently improving my React and Next.js knowledge
