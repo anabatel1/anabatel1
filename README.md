@@ -2,8 +2,7 @@
 - ✨ &nbsp; frontend developer with 5 years of experience
 - :dizzy: &nbsp; my motivation stems from working on interesting products
 - :grey_question: &nbsp; I like asking questions
-- 🌱 &nbsp; I’m currently improving my React and Next.js knowledge
-- :warning: &nbsp; I have professional experience with React, Next.js 14, and Vue.js 2. I am most excited about working within React ecosystem!
+- 🌱 &nbsp; I have professional experience with React, Next.js 15, and Vue.js 2. I am most excited about working within React ecosystem!
 
 
 
@@ -12,7 +11,7 @@
 - :white_check_mark: &nbsp; moving tasks to "Done"
 - :muscle: &nbsp; helping my teammates
 - :chart_with_upwards_trend: &nbsp; using modern technologies
-- :coffee: &nbsp; coffee &nbsp; / &nbsp; :books: &nbsp; books &nbsp; / &nbsp; :doughnut: &nbsp; sweets / &nbsp; :pizza: &nbsp; frontend meetups
+- :coffee: &nbsp; coffee &nbsp; / &nbsp; :books: &nbsp; books &nbsp; / &nbsp; :doughnut: &nbsp; sweets / &nbsp; :pizza: &nbsp; tech meetups
 
 
 
